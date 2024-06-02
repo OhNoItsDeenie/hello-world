@@ -5,3 +5,12 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     border-top: 15px solid #424242;
 }
+
+main{
+    margin: 0 auto;
+    width: 80%;
+}
+
+img{
+    width: 100%;
+}
