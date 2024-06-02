@@ -1,10 +1,7 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
-}
+
 body{
-    background: #fff
-    font-family: Helverica, sans-serif;
-
-
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 15px solid #424242;
 }
